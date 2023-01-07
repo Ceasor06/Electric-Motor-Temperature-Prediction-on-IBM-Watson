@@ -17,6 +17,13 @@ the motors, thereby identifying the perfect temperature intervals for the electr
 work. Moreover the appropriate machine learning models assist in observing the areas
 where modification pertaining to the motors is required.
 
+## Following flow chart was used in this project:
+
+<p align="center">
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/105945382/211165448-8069ca1e-d5d7-4543-b8b5-e35271b7b416.png">
+</p>
+
+<hr>
 
 **Tools used**
 
