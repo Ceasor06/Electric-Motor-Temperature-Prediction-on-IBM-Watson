@@ -55,6 +55,7 @@ where, :
 + Random Forest
 - Support Vector machine
 
+<hr>
 
 We built a web application that is integrated into the model we built. A UI is provided for the uses where he has to enter the values for predictions. The enter values are given to the saved model and prediction is showcased on the UI.
 
@@ -73,12 +74,16 @@ We built our web application on python flask app (Flask is used for developing w
 
 **Prediction Function:**
 
+![image](https://user-images.githubusercontent.com/105945382/211164852-e5d91d6e-4a65-49e8-b81e-2fe128ab1953.png)
+
+## Build An HTML Page 
 
 
+We Build an HTML page to take the values from the user in a form and upon clicking on the predict button we get the temperature predicted. The values predicted are normalized values according to the dataset.
+
+**This is how the home html page looks like:**
 
 
-Build An HTML Page 
- We Build an HTML page to take the values from the user in a form and upon clicking on the predict button we get the temperature predicted. The values predicted are normalized values according to the dataset.
  
 Run The Application
  We open the link on a browser where we will be entering our values to get the prediction.
