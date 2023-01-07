@@ -1,5 +1,7 @@
 # Electric-Motor-temperature-prediction
 
+![image](https://user-images.githubusercontent.com/105945382/211165188-76df35a2-2b0c-4e7b-92a5-604c0ba70686.png)
+
 Electric motor is a device which is used to transform mechanical energy into electrical energy.
 The principle of the electric motor involves the process of interaction between the
 electric and magnetic fields, and the motion of the coil results in increase of temperature.
