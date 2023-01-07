@@ -69,6 +69,8 @@ We built our web application on python flask app (Flask is used for developing w
 
 **Load the home page:**
 
+![image](https://user-images.githubusercontent.com/105945382/211164779-6814cada-17ca-4ed2-b1e8-a1fc48f6b12c.png)
+
 
 
 
