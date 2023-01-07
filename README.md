@@ -88,4 +88,4 @@ We Build an HTML page to take the values from the user in a form and upon clicki
 
 ### Now we integrate it into IBM 
 
-At the final stage, the model was trained on IBM Watson and then is deployed on IBM cloud.
+At the final stage, the model was trained on IBM Watson and then deployed on IBM cloud.
