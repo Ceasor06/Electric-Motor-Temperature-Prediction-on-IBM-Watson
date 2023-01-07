@@ -81,17 +81,11 @@ We built our web application on python flask app (Flask is used for developing w
 
 We Build an HTML page to take the values from the user in a form and upon clicking on the predict button we get the temperature predicted. The values predicted are normalized values according to the dataset.
 
-**This is how the home html page looks like:**
+**This is how the home html page looks like where we will be entering our values to get the prediction:**
 
-
+![image](https://user-images.githubusercontent.com/105945382/211164978-b6df2465-7d6a-48d7-bd3e-2abb3a5384cb.png)
  
-Run The Application
- We open the link on a browser where we will be entering our values to get the prediction.
 
-#Now we integrate it into IBM 
+### Now we integrate it into IBM 
 
-At the final stage, the model is deployed on IBM cloud Using IBM watson.
-
-
- Register For IBM Cloud
- Train The ML Model On IBM Watson and deploy it on the IBM cloud.
+At the final stage, the model was trained on IBM Watson and then is deployed on IBM cloud.
