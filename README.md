@@ -63,7 +63,13 @@ We built a web application that is integrated into the model we built. A UI is p
 
 We built our web application on python flask app (Flask is used for developing web applications using python)
 
-In the flask application, the user values are taken from the HTML page
+**In the flask application, the user values are taken from the HTML page:**
+
+![image](https://user-images.githubusercontent.com/105945382/211164655-bed747aa-a26f-4ef1-a268-773bb4906ba7.png)
+
+**Load the home page:**
+
+
 
 
 Build An HTML Page 
