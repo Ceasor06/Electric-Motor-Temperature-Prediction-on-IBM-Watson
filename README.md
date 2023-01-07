@@ -85,6 +85,8 @@ We built our web application on python flask app (Flask is used for developing w
 
 ![image](https://user-images.githubusercontent.com/105945382/211164852-e5d91d6e-4a65-49e8-b81e-2fe128ab1953.png)
 
+<hr>
+
 ## Build An HTML Page 
 
 
