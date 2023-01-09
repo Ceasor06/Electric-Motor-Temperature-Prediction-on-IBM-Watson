@@ -101,4 +101,4 @@ We Build an HTML page to take the values from the user in a form and upon clicki
 
 At the final stage, the model was trained on IBM Watson and then deployed on IBM cloud.
 
-Thank you for reading. :smile:
+Thank you for reading. 
